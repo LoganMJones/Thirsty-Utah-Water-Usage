@@ -1,0 +1,122 @@
+"Notes","Year","Year Code","Age of Mother 9","Age of Mother 9 Code",Births,Female Population,Fertility Rate
+,"2016","2016","Under 15 years","15",10,Not Available,Not Available
+,"2016","2016","15-19 years","15-19",1829,117114,15.62
+,"2016","2016","20-24 years","20-24",10515,122227,86.03
+,"2016","2016","25-29 years","25-29",17017,112210,151.65
+,"2016","2016","30-34 years","30-34",13769,109486,125.76
+,"2016","2016","35-39 years","35-39",6188,110681,55.91
+,"2016","2016","40-44 years","40-44",1056,90955,11.61
+,"2016","2016","45-49 years","45-49",73,Not Available,Not Available
+,"2017","2017","15-19 years","15-19",1801,118837,15.16
+,"2017","2017","20-24 years","20-24",10138,123890,81.83
+,"2017","2017","25-29 years","25-29",16435,117124,140.32
+,"2017","2017","30-34 years","30-34",13096,107879,121.40
+,"2017","2017","35-39 years","35-39",5906,112466,52.51
+,"2017","2017","40-44 years","40-44",1128,94928,11.88
+,"2017","2017","45-49 years","45-49",69,Not Available,Not Available
+,"2018","2018","15-19 years","15-19",1604,122027,13.14
+,"2018","2018","20-24 years","20-24",9927,126855,78.25
+,"2018","2018","25-29 years","25-29",15956,120254,132.69
+,"2018","2018","30-34 years","30-34",12635,107686,117.33
+,"2018","2018","35-39 years","35-39",5878,113832,51.64
+,"2018","2018","40-44 years","40-44",1132,99609,11.36
+,"2018","2018","45-49 years","45-49",68,Not Available,Not Available
+,"2019","2019","Under 15 years","15",10,Not Available,Not Available
+,"2019","2019","15-19 years","15-19",1498,124535,12.03
+,"2019","2019","20-24 years","20-24",9501,128846,73.74
+,"2019","2019","25-29 years","25-29",16074,122197,131.54
+,"2019","2019","30-34 years","30-34",12565,108654,115.64
+,"2019","2019","35-39 years","35-39",5864,113907,51.48
+,"2019","2019","40-44 years","40-44",1243,104121,11.94
+,"2019","2019","45-49 years","45-49",67,Not Available,Not Available
+,"2020","2020","15-19 years","15-19",1363,126536,10.77
+,"2020","2020","20-24 years","20-24",9062,131294,69.02
+,"2020","2020","25-29 years","25-29",15865,123245,128.73
+,"2020","2020","30-34 years","30-34",12367,110703,111.71
+,"2020","2020","35-39 years","35-39",5757,112743,51.06
+,"2020","2020","40-44 years","40-44",1207,108818,11.09
+,"2020","2020","45-49 years","45-49",67,Not Available,Not Available
+,"2021","2021","15-19 years","15-19",1282,132487,9.68
+,"2021","2021","20-24 years","20-24",9057,135230,66.97
+,"2021","2021","25-29 years","25-29",16467,123262,133.59
+,"2021","2021","30-34 years","30-34",12772,115362,110.71
+,"2021","2021","35-39 years","35-39",5827,113983,51.12
+,"2021","2021","40-44 years","40-44",1217,113684,10.71
+,"2021","2021","45-49 years","45-49",82,Not Available,Not Available
+,"2022","2022","15-19 years","15-19",1203,134170,8.97
+,"2022","2022","20-24 years","20-24",8732,145534,60.00
+,"2022","2022","25-29 years","25-29",16116,123838,130.14
+,"2022","2022","30-34 years","30-34",12684,117059,108.36
+,"2022","2022","35-39 years","35-39",5676,111108,51.09
+,"2022","2022","40-44 years","40-44",1267,114670,11.05
+,"2022","2022","45-49 years","45-49",72,Not Available,Not Available
+,"2023","2023","15-19 years","15-19",1202,138294,8.69
+,"2023","2023","20-24 years","20-24",8294,142272,58.30
+,"2023","2023","25-29 years","25-29",15887,126777,125.31
+,"2023","2023","30-34 years","30-34",12615,120014,105.11
+,"2023","2023","35-39 years","35-39",5667,111230,50.95
+,"2023","2023","40-44 years","40-44",1245,116344,10.70
+,"2023","2023","45-49 years","45-49",95,Not Available,Not Available
+,"2024","2024","15-19 years","15-19",1158,141300,8.20
+,"2024","2024","20-24 years","20-24",8646,150004,57.64
+,"2024","2024","25-29 years","25-29",16479,132270,124.59
+,"2024","2024","30-34 years","30-34",13064,124714,104.75
+,"2024","2024","35-39 years","35-39",5844,113641,51.43
+,"2024","2024","40-44 years","40-44",1384,117154,11.81
+,"2024","2024","45-49 years","45-49",71,Not Available,Not Available
+,"2024","2024","50 years and over","50+",10,Not Available,Not Available
+"---"
+"Dataset: Natality, 2016-2024 expanded"
+"Query Parameters:"
+"States: Utah (49)"
+"Year: 2016; 2017; 2018; 2019; 2020; 2021; 2022; 2023; 2024"
+"Group By: Year; Age of Mother 9"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality-expanded.html for more information."
+"---"
+"Query Date: Oct 23, 2026 8:56:32 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2016-2024, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-expanded-current.html on Oct 23, 2026 8:56:32 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Not Available' appears when the denominator population for a rate measure is not available."
+"2. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/natality-expanded.html#Assurance of Confidentiality."
+"3. Each birth record represents one liveborn infant."
+"4. Fertility rates are calculated as the number of births divided by the number of females age 15 - 44 years old in the given"
+"year(s). When the numerator is sub-set by mother's age, mother's race, mother's hispanicity, location, or year of birth, then"
+"the same sub-set for age, race, hispanicity, location and year applies to the denominator population. However, if you sub-set"
+"mother's age selecting some years not in the 15 - 44 range, those years of mother's age ouside this range will not be included"
+"in the denominator population. If you sub-set mother's age selecting only years outside the 15 - 44 range, then ""Not"
+"Available"" is reported for the denominator population."
+"5. Birth rates and fertility rates are calculated using the following populations: The populations for year 2024 are from the"
+"postcensal single race series of July 1st estimates of the resident population, released by Census Bureau on June 26, 2025. The"
+"2024 population estimates are based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count. The populations for year 2023 are from the postcensal single race series of July 1st estimates of the resident"
+"population, released by Census Bureau on June 27, 2024. The 2023 population estimates are based on the Blended Base produced by"
+"the US Census Bureau in lieu of the April 1, 2020 decennial population count. The populations for year 2022 are from the"
+"postcensal single race series of July 1st estimates of the resident population, released by Census Bureau on June 22, 2023. The"
+"2022 population estimates are based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count. The populations for year 2021 are from the postcensal single race series of July 1st estimates of the resident"
+"population, released by Census Bureau on June 30, 2022. The 2021 population estimates are based on the Blended Base produced by"
+"the US Census Bureau in lieu of the April 1, 2020 decennial population count. The populations for year 2020 are from the"
+"postcensal single race series of July 1st estimates of the resident population, released by Census Bureau on July 27, 2021. The"
+"populations for year 2019 are from the postcensal single race series of July 1st estimates of the resident population, released"
+"by Census Bureau on June 25, 2020; The populations for year 2018 are from the postcensal single race series of July 1st"
+"estimates of the resident population, released by Census Bureau on June 21, 2019; The populations for year 2017 are from the"
+"postcensal single race series of July 1st estimates of the resident population, released by Census Bureau on June 21, 2018; The"
+"populations for year 2016 are from the postcensal single race series of July 1st estimates of the resident population, released"
+"by Census Bureau on June 22, 2017. More information:"
+"http://wonder.cdc.gov/wonder/help/natality-expanded.html#Denominator-Population-Sources."
